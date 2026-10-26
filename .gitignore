@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# Nested repository folder
+/AWT-Project/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Build output
+dist/
+build/
